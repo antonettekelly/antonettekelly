@@ -3,8 +3,8 @@
 - 👩🏻‍💻 My name is Kelly Mae, I'm a final-year information systems student at Multimedia Nusantara University.
 - 🏝️ I'm from Bali, currently living in Tangerang. 
 - 📊 I’m interested in data science and data analysis. I primarily use Python, SQL/PostgreSQL, and PowerBI.
-- 📩 Reach me at antonettekell@gmail.com
-- 📲 You can also find and contact me on:
+- 📩 You can reach me at antonettekell@gmail.com
+- 📲 Connect with me:
 
 [![LinkedIn][1.1]][1][![Instagram][2.1]][2]
 
