@@ -4,7 +4,7 @@
 - 🏝️ I'm from Bali, currently living in Tangerang. 
 - 📊 I’m interested in data science and data analysis. I primarily use Python, SQL/PostgreSQL, and PowerBI.
 - 📩 You can reach me at antonettekell@gmail.com
-- 📲 Connect with me:
+- 📲 Feel free to connect with me on:
 
 [![LinkedIn][1.1]][1][![Instagram][2.1]][2]
 
