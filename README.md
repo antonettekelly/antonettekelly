@@ -12,8 +12,8 @@
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=c9c9d8)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=c9c9d8)
 ![](https://img.shields.io/badge/Code-R_Programming_Language-informational?style=flat&logo=r&logoColor=white&color=c9c9d8)
-![](https://img.shields.io/badge/Cloud-Google_Big_Query-informational?style=flat&logo=googlecloud&logoColor=white&color=c9c9d8)
 ![](https://img.shields.io/badge/Code-SAS-informational?style=flat&logo=sas&logoColor=white&color=c9c9d8)
+![](https://img.shields.io/badge/Cloud-Google_Big_Query-informational?style=flat&logo=googlecloud&logoColor=white&color=c9c9d8)
 
 ![](https://img.shields.io/badge/Tools-Jupyter_Notebook-informational?style=flat&logo=jupyter&logoColor=white&color=c9c9d8)
 ![](https://img.shields.io/badge/Tools-DBeaver-informational?style=flat&logo=dbeaver&logoColor=white&color=c9c9d8)
