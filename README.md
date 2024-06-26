@@ -1,4 +1,4 @@
-# Hey there! 👋🏻🌼
+# Hey There! 👋🏻🌼
 
 - 👩🏻‍💻 My name is Kelly Mae, I'm a final-year information systems student at Multimedia Nusantara University.
 - 🏝️ I'm from Bali, currently living in Tangerang. 
