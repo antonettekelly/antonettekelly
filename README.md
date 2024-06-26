@@ -1,8 +1,8 @@
-# Hey there! 👋🏻🌼
+# Hey there, I'm Kelly Mae! 👋🏻🌼
 
-- 👩🏻‍💻 My name is Kelly Mae, I'm a final-year information systems student at Multimedia Nusantara University.
-- 📊 My main focus is on data science and data analysis.
+- 👩🏻‍💻 I'm a final-year information systems student at Multimedia Nusantara University.
 - 🏝️ I'm from Bali, currently living in Tangerang. 
+- 📊 I’m interested in data science and data analysis. I primarily use Python, SQL/PostgreSQL, and PowerBI.
 - 📩 You can find and contact me on:
 
 [![LinkedIn][1.1]][1][![Instagram][2.1]][2][![Email][3.1]][3]
@@ -10,10 +10,10 @@
 ## 💻 Programming Languages & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=c9c9d8)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=c9c9d8)
-![](https://img.shields.io/badge/Code-R_Programming_Language-informational?style=flat&logo=r&logoColor=white&color=c9c9d8)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=c9c9d8)
-![](https://img.shields.io/badge/Code-SAS-informational?style=flat&logo=sas&logoColor=white&color=c9c9d8)
+![](https://img.shields.io/badge/Code-R_Programming_Language-informational?style=flat&logo=r&logoColor=white&color=c9c9d8)
 ![](https://img.shields.io/badge/Cloud-Google_Big_Query-informational?style=flat&logo=googlecloud&logoColor=white&color=c9c9d8)
+![](https://img.shields.io/badge/Code-SAS-informational?style=flat&logo=sas&logoColor=white&color=c9c9d8)
 
 ![](https://img.shields.io/badge/Tools-Jupyter_Notebook-informational?style=flat&logo=jupyter&logoColor=white&color=c9c9d8)
 ![](https://img.shields.io/badge/Tools-DBeaver-informational?style=flat&logo=dbeaver&logoColor=white&color=c9c9d8)
