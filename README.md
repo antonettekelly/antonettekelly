@@ -21,6 +21,7 @@
 ![](https://img.shields.io/badge/Tools-PowerBI-informational?style=flat&logo=powerbi&logoColor=white&color=c9c9d8)
 ![](https://img.shields.io/badge/Tools-Looker_Studio-informational?style=flat&logo=looker&logoColor=white&color=c9c9d8)
 ![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=c9c9d8)
+![](https://img.shields.io/badge/Tools-RStudio-informational?style=flat&logo=rstudio&logoColor=white&color=c9c9d8)
 
 ## &#x1f4c8; GitHub Stats
 
