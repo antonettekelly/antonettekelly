@@ -23,7 +23,7 @@
 ![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=c9c9d8)
 ![](https://img.shields.io/badge/Tools-RStudio-informational?style=flat&logo=rstudio&logoColor=white&color=c9c9d8)
 
-## &#x1f4c8; GitHub Stats
+<!--## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/antonettekelly/antonettekelly">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonettekelly&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=bcbcfb&bg_color=1d1f21&langs_count=3" />
@@ -38,7 +38,7 @@
 
 <a href="https://github.com/antonettekelly/EverBank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonettekelly&repo=everbank&title_color=ffffff&text_color=c9cacc&icon_color=bcbcfb&bg_color=1d1f21" />
-</a>    
+</a> -->
 
 <!-- links to social media icons -->
 
