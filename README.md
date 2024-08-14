@@ -1,6 +1,6 @@
 # Hey There! 👋🏻🌼
 
-- 👩🏻‍💻 My name is Kelly Mae, I'm a final year student of Information Systems at Multimedia Nusantara University.
+- 👩🏻‍💻 My name is Kelly Mae, I'm a fresh graduate of Information Systems at Multimedia Nusantara University.
 - 🏝️ I'm from Bali, currently living in Tangerang. 
 - 📊 I’m interested in data science and data analysis. I primarily use Python, SQL/PostgreSQL, and PowerBI.
 - 📩 You can reach me at antonettekell@gmail.com
