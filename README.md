@@ -1,8 +1,8 @@
 # Hey There! 👋🏻🌼
 
-- 👩🏻‍💻 My name is Kelly Mae, I'm a fresh graduate of Information Systems at Multimedia Nusantara University.
+- 👩🏻‍💻 My name is Kelly Mae.
 - 🏝️ I'm from Bali, currently living in Tangerang. 
-- 📊 I’m interested in data science and data analysis. I primarily use Python, SQL/PostgreSQL, and PowerBI.
+- 📊 I’m interested in data analysis, business intelligence, and data science. I primarily use Python, SQL/PostgreSQL, and PowerBI.
 - 📩 You can reach me at antonettekell@gmail.com
 - 📲 Feel free to connect with me on:
 
